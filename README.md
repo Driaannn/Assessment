@@ -17,5 +17,5 @@ streamlit run dashboard.py
 
 ## URL STREAMLIT
 ```
-
+https://assessment-bike-sharing.streamlit.app/
 ```
