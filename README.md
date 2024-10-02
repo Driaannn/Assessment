@@ -8,11 +8,12 @@ Proyek ahkir menganalisis performa penyewaan sepeda. Dalam proyek ini, ditugaska
 ## Environment
 ```
 python=3.12.6
+pip install -r requirements.txt
 ```
 
-## Rub Streamlit App
+## Run Streamlit App
 ```
-streamlit run dashboard.py
+streamlit run dashboard/dashboard.py
 ```
 
 ## URL STREAMLIT
