@@ -16,7 +16,7 @@ pip install -r requirements.txt
 streamlit run dashboard/dashboard.py
 ```
 
-## URL STREAMLIT
+## URL Streamlit
 ```
 https://assessment-bike-sharing.streamlit.app/
 ```
